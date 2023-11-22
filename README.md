@@ -23,7 +23,7 @@
   </td>
     <td>
   <a href="Private Project">
-  	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FWe-adopted-the-skinned-multi-person-linear-model-SMPL-15-for-our-framework-since-it_fig3_338747533&psig=AOvVaw3Hr-piZR0zItVmk5871yMw&ust=1700768234256000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIif0sWt2IIDFQAAAAAdAAAAABAE" />
+  	<img src="https://www.researchgate.net/publication/338747533/figure/fig3/AS:850136829796355@1579699823327/We-adopted-the-skinned-multi-person-linear-model-SMPL-15-for-our-framework-since-it.png" />
   </a>
   </td>
   </tr>
