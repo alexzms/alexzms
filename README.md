@@ -29,8 +29,7 @@
   </tr>
 </table>
 - 🌱 I’m currently learning Advanced C++, CUDA, and ray tracing.
-- ⚡ Fun fact: I am a big fan of computer games!
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ Fun fact: I am a big fan of computer games!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=alexzms&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzms&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
