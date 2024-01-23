@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>Ray Tracing in C++ Project</th>
+    <th>Ray Tracing in C++ Project(Also in CUDA C++)</th>
     <th>CUDA Project</th>
     <th>UIP-MDM motion reconstruction</th>
   </tr>
