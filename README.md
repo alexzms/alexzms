@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning Advanced C++, CUDA, and ray tracing.
+- 🌱 I’m currently digging into computer vision, reverse-rendering and control theory.
 - ⚡ Fun fact: I am a big fan of computer games!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
