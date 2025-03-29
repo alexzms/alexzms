@@ -1,6 +1,8 @@
 ### Hi there 👋 This is Minshen Zhang
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexzms)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minshen-zhang-416a0b291/)
+[![Personal Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://alexzms.github.io)
+[![Arximia](https://img.shields.io/badge/-Arximia-FF4088?style=flat&logo=Vercel&logoColor=white)](https://arximia.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexzhangminshen@gmail.com)
 
 - 🎓 BS in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (2021-2025) 
