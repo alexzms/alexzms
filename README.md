@@ -16,36 +16,13 @@
   - Shanghai ElanTech Lab (2023-2024): Implemented neural networks and built motion capture facilities
 
 - 🔭 I'm currently working on
-<table style="width:100%; table-layout:fixed">
-  <tr>
-    <th>Arximia: LLM-Agent Research Platform</th>
-    <th>Ray Tracing CUDA Renderer</th>
-    <th>Water Surface Reconstruction</th>
-  </tr>
-  <tr>
-    <td>
-  <a href="https://arximia.com">
-  	<img src="https://pic2.zhimg.com/80/v2-57b3c224d0d5e7c280a8ba45906b013d_1440w.webp" />
-  </a>
-  </td>
-    <td>
-  <a href="https://github.com/alexzms/raytracing_cuda">
-  	<img src="https://github.com/alexzms/ray_tracing_cpp/blob/master/learning/fancy.png" />
-  </a>
-  </td>
-    <td>
-  <a href="https://github.com/alexzms/learn_cuda">
-  	<img src="https://picx.zhimg.com/v2-bb7b3d18017c3099312aacf508574ac1_1440w.jpg?source=d16d100b" />
-  </a>
-  </td>
-  </tr>
-</table>
+  - LLM Novel Structures, novel methods on KV Pruning
+  - Hallucination Detection and Mitigation
+  - LLM Reinforcement Learning
 
-- 🌱 Skills & Technologies: Machine Learning, Python, C/C++, CUDA C++, Unity/C#
+- 🌱 Skills & Technologies: Natural Language Processing, Large Language Modeling, Machine Learning, Python, C/C++, CUDA C+
 - 🏆 Honors: Outstanding Student at ShanghaiTech University (2021-2022, 2023-2024)
 - 👨‍🏫 Teaching: Teaching Assistant for Computer Programming (CS100) at ShanghaiTech University
-- ⚡ Fun facts: Piano player (Level 10 at Shanghai Conservatory of Music), badminton & basketball enthusiast, philosophy lover
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=alexzms&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
