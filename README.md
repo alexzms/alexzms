@@ -5,7 +5,7 @@
 [![Arximia](https://img.shields.io/badge/-Arximia-FF4088?style=flat&logo=Vercel&logoColor=white)](https://arximia.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexzhangminshen@gmail.com)
 
-- 🎓 MS in Computer Science at UC San Diego (2025-2027)
+- 🎓 MS in Computer Science at UC San Diego (2025-present)
   - BS in Computer Science at ShanghaiTech University (2021-2025)
   - Exchange student at UC Berkeley Extension (GLOBE Program) with 4.0/4.0 GPA
     
