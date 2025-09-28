@@ -7,7 +7,6 @@
 
 - 🎓 MS in Computer Science at UC San Diego (2025-2027)
   - BS in Computer Science at ShanghaiTech University (2021-2025)
-  - GPA: 3.69/4.0 (Overall), 3.8+/4.0 (Major)
   - Exchange student at UC Berkeley Extension (GLOBE Program) with 4.0/4.0 GPA
     
 - 🔬 Research Experience
