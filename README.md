@@ -12,4 +12,4 @@ Currently, I focus on scalable training and inference for generative models. I a
 Looking ahead, I aim to extend my work on **FlashMHF** to broader LLM backbones and delve deeper into **World Models** within the FastVideo framework. I am also actively exploring retrieval-based methods and **Continual Learning** to solve the challenges of long-context understanding in foundation models.
 
 ---
-**Technical Focus:** `NLP` `Triton/CUDA` `LLM Architecture` `Video Generation`
+**Technical Focus:** `NLP` `Triton/CUDA` `LLM Architecture` `World Model`
