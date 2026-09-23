@@ -1,6 +1,4 @@
-### Hi, I'm Minshen Zhang 👋
-
-You can also call me **Alex**.
+### Hi, I'm Minshen Zhang. You can also call me Alex. 👋
 
 ## [🌐 Personal Website → alexzms.github.io](https://alexzms.github.io/)
 
