@@ -1,5 +1,7 @@
 ### Hi, I'm Minshen Zhang 👋
 
+You can also call me **Alex**.
+
 ## [🌐 Personal Website → alexzms.github.io](https://alexzms.github.io/)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexzms)
