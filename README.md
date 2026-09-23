@@ -11,7 +11,7 @@ I work on **efficient AI systems**: LLM serving, GPU/TPU kernel optimization, sp
 
 #### Current work
 
-- **[FastAFD](https://haoailab.com/blogs/fastafd/)** — Working on **Attention–FFN disaggregation** for LLM inference. FastAFD separates attention and FFN/MoE execution across specialized workers on Blackwell NVL72, exploring how to balance memory, compute, and communication. [Read the blog](https://haoailab.com/blogs/fastafd/).
+- **[FastAFD](https://haoailab.com/blogs/fastafd/)** — Currently contributing to a new inference engine project focused on **LLM inference optimization**.
 - **AutoPallas at ByteDance** — Code owner of an internal agent system for TPU kernel optimization, with interactive task specification, configurable single-/multi-agent loops, parallel optimization exploration, a strict correctness gate, and reusable optimization trajectories. I also optimize Pallas paged-attention and fused kernels, using HLO/LLO analysis and XProf profiling with XLA as a performance baseline.
 
 #### Research and open source
