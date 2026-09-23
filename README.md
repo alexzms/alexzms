@@ -5,7 +5,7 @@
 [![Personal Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://alexzms.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexzhangminshen@gmail.com)
 
-I am an M.S. student in Computer Science at **UC San Diego**, advised by Prof. Hao Zhang in **Hao AI Lab**. I worked as a **Student Researcher Intern at ByteDance Seed Infra**. I hold a B.S. from **ShanghaiTech University**, where I was advised by Prof. Kewei Tu.
+I am an M.S. student in Computer Science at **UC San Diego**, advised by [Prof. Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) in **[Hao AI Lab](https://haoailab.com/)**. I worked as a **Student Researcher Intern at ByteDance Seed Infra**. I hold a B.S. from **ShanghaiTech University**, where I was advised by [Prof. Kewei Tu](https://scholar.google.com/citations?user=5gi3Pm0AAAAJ&hl=en).
 
 I work on **efficient AI systems**: LLM serving, GPU/TPU kernel optimization, sparse attention, and agents for performance engineering. I enjoy connecting model architecture, on-chip dataflow, and distributed execution to make models more efficient in practice.
 
