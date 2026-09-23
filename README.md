@@ -1,15 +1,24 @@
-### Hi there 👋 This is Minshen Zhang
+### Hi, I'm Minshen Zhang 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexzms)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minshen-zhang-416a0b291/)
 [![Personal Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://alexzms.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexzhangminshen@gmail.com)
 
-I am a first-year M.S. student in Computer Science at **UC San Diego**, advised by Prof. Hao Zhang, and I hold a B.S. from **ShanghaiTech University** advised by Prof. Kewei Tu. My research lies at the intersection of **Natural Language Processing** and **Machine Learning Systems**. I am particularly passionate about designing efficient architectures for **Long-Context Modeling** and exploring the frontiers of **World Models** to bridge system efficiency with model capability.
+I am an M.S. student in Computer Science at **UC San Diego**, advised by Prof. Hao Zhang in **Hao AI Lab**, and a **Student Researcher Intern at ByteDance Seed Infra**. I hold a B.S. from **ShanghaiTech University**, where I was advised by Prof. Kewei Tu.
 
-Currently, I focus on scalable training and inference for generative models. I am the lead author of **FlashMHF** (under review), where I proposed a novel Multi-Head FFN architecture backed by IO-aware Triton/CUDA kernels. Additionally, as a core contributor to **FastVideo** in Hao AI Lab, I am working on new model aggregation and optimized kernel implementations to accelerate video generation systems.
+I work on **efficient AI systems**: LLM serving, GPU/TPU kernel optimization, sparse attention, and agents for performance engineering. I enjoy connecting model architecture, on-chip dataflow, and distributed execution to make models more efficient in practice.
 
-Looking ahead, I aim to extend my work on **FlashMHF** to broader LLM backbones and delve deeper into **World Models** within the FastVideo framework. I am also actively exploring retrieval-based methods and **Continual Learning** to solve the challenges of long-context understanding in foundation models.
+#### Current work
+
+- **[FastAFD](https://haoailab.com/blogs/fastafd/)** — Working on **Attention–FFN disaggregation** for LLM inference. FastAFD separates attention and FFN/MoE execution across specialized workers on Blackwell NVL72, exploring how to balance memory, compute, and communication. [Read the blog](https://haoailab.com/blogs/fastafd/).
+- **AutoPallas at ByteDance** — Code owner of an internal agent system for TPU kernel optimization, with interactive task specification, configurable single-/multi-agent loops, parallel optimization exploration, a strict correctness gate, and reusable optimization trajectories. I also optimize Pallas paged-attention and fused kernels, using HLO/LLO analysis and XProf profiling with XLA as a performance baseline.
+
+#### Research and open source
+
+- **[FlashMHF / FlashFFN](https://arxiv.org/abs/2512.06989)** — First-author research on software–hardware co-design for efficient FFN architectures. I wrote Flash-style kernels in **ThunderKittens/CUDA and Triton** that keep intermediates in SRAM. The project reduces peak memory by **3–5×** and achieves up to **1.08×** inference speedup over the SwiGLU baseline while improving model quality.
+- **[HiLS-Attention](https://arxiv.org/abs/2607.02980)** — Core contributor; built the official **SGLang serving backend** and reference inference system for learned sparse attention, supporting **512K-token context**.
+- **[FastVideo](https://github.com/hao-ai-lab/FastVideo)** — **One of the code owners**, contributing training infrastructure, custom GPU kernels, inference optimization, and quantization-aware distillation for video generation and world models.
 
 ---
-**Technical Focus:** `NLP` `Triton/CUDA` `LLM Architecture` `World Model`
+**Technical focus:** `LLM Serving` `GPU/TPU Kernels` `Coding Agents` `Sparse Attention` `Software–Hardware Co-design`
