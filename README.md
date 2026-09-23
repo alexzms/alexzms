@@ -1,8 +1,9 @@
 ### Hi, I'm Minshen Zhang 👋
 
+## [🌐 Personal Website → alexzms.github.io](https://alexzms.github.io/)
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexzms)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minshen-zhang-416a0b291/)
-[![Personal Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://alexzms.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexzhangminshen@gmail.com)
 
 I am an M.S. student in Computer Science at **UC San Diego**, advised by [Prof. Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) in **[Hao AI Lab](https://haoailab.com/)**. I worked as a **Student Researcher Intern at ByteDance Seed Infra**. I hold a B.S. from **ShanghaiTech University**, where I was advised by [Prof. Kewei Tu](https://scholar.google.com/citations?user=5gi3Pm0AAAAJ&hl=en).
