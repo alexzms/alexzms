@@ -18,7 +18,7 @@ I work on **efficient AI systems**: LLM serving, GPU/TPU kernel optimization, sp
 #### Research and open source
 
 - **[HiLS-Attention](https://arxiv.org/abs/2607.02980)** — Core contributor; built the official **SGLang serving backend** and reference inference system for learned sparse attention, supporting **512K-token context**.
-- **[FlashMHF / FlashFFN](https://arxiv.org/abs/2512.06989)** — First-author research on software–hardware co-design for efficient FFN architectures. I wrote Flash-style kernels in **ThunderKittens/CUDA and Triton** that keep intermediates in SRAM. The project reduces peak memory by **3–5×** and achieves up to **1.08×** inference speedup over the SwiGLU baseline while improving model quality.
+- **[FlashMHF / FlashFFN](https://arxiv.org/abs/2512.06989)** — First-author paper **accepted at NeurIPS 2026**, on software–hardware co-design for efficient FFN architectures. I wrote Flash-style kernels in **ThunderKittens/CUDA and Triton** that keep intermediates in SRAM. The project reduces peak memory by **3–5×** and achieves up to **1.08×** inference speedup over the SwiGLU baseline while improving model quality.
 - **[FastVideo](https://github.com/hao-ai-lab/FastVideo)** — **One of the code owners**, contributing training infrastructure, custom GPU kernels, inference optimization, and quantization-aware distillation for video generation and world models.
 
 ---
