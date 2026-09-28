@@ -1,6 +1,6 @@
 ### Hi, I'm Minshen Zhang. You can also call me Alex. 👋
 
-## [🌐 Personal Website → alexzms.github.io](https://alexzms.github.io/)
+## [🌐 Personal Website → alexzms.com](https://alexzms.com/)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexzms)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minshen-zhang-416a0b291/)
