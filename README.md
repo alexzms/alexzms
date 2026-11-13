@@ -12,8 +12,8 @@ I work on **efficient AI systems**: LLM serving, GPU/TPU kernel optimization, sp
 
 #### Current work
 
-- **[FastAFD](https://haoailab.com/blogs/fastafd/)** — Currently contributing to a new LLM inference engine that targets **high-throughput workloads** through **Attention–FFN disaggregation**.
-- **AutoPallas & TPU Inference at ByteDance** — During my internship, I was code owner of an internal agent system for TPU kernel optimization, with interactive task specification, configurable single-/multi-agent loops, parallel optimization exploration, a strict correctness gate, and reusable optimization trajectories. I also contributed to Seed’s internal **vllm tpu-inference framework** and optimized Pallas paged-attention and fused kernels, using HLO/LLO analysis and XProf profiling with XLA as a performance baseline.
+- **[FastAFD](https://github.com/hao-ai-lab/FastAFD)** — Currently contributing to a new LLM inference engine that targets **high-throughput workloads** through **Attention–FFN disaggregation**.
+- **[Verifiable LLM Infra](https://haoailab.com/blogs/verifiable-llm-infra/)** — Working on **agentic formal verification for AI infrastructure** with [vstack](https://github.com/hao-ai-lab/vstack): coding agents write formal specs of serving-engine state machines, check them with TLA+ and Z3, and confirm each finding on the real engine. Currently applying it to **vLLM**, with fixes for silent-wrong-output bugs going upstream.
 
 #### Research and open source
 
